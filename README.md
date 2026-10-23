@@ -1,7 +1,15 @@
 # ShareMotion – A Ride Sharing Web App
 
-ShareMotion is a full-stack ride-sharing platform that connects passengers for shared rides, offers cost flexibility, safety features, and group contracts for regular commuters. Users can post rides, search and join available rides, manage bookings, communicate with others, and even set up recurring group contracts — all in one place.
+**ShareMotion** is a comprehensive full-stack ride-sharing platform developed as a laboratory project for **CSE 471: System Analysis and Design** at **BRAC University**. The project focuses on applying core software engineering practices, system modeling, architectural design, and full-stack development to solve modern urban commuting challenges.
 
+The platform connects passengers for shared rides, offering fare flexibility, robust safety mechanics, and automatic weekly group contracts tailored for regular commuters.
+
+
+
+## 👨‍💻 Author Info
+- **Developer:** Tasnuba Mehjabin
+- **Institution:** BRAC University
+- **Course:** CSE 471 (System Analysis & Design Lab)
 
 
 
